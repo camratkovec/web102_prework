@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102_prework\prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/camratkovec/web102_prework/blob/main/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
